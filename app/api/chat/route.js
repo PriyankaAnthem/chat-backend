@@ -4,6 +4,7 @@ export const dynamic = "force-dynamic";
 import { NextResponse } from "next/server";
 import { searchQdrant } from "@/lib/qdrant";
 import { buildSystemPrompt } from "@/lib/prompt";
+import { sendUnansweredEmail } from "@/lib/sendEmail";
 
 // ✅ CORS setup
 const allowedOrigins = process.env.FRONTEND_URLS?.split(",") || [];
@@ -57,7 +58,16 @@ export async function POST(req) {
     const hits = lastUserMsg
       ? await searchQdrant(lastUserMsg.content, 3)
       : [];
+  const isUnanswered =
+  (!hits || hits.length === 0) ||
+  reply.toLowerCase().includes("i don't have") ||
+  reply.toLowerCase().includes("not in my knowledge");
 
+if (isUnanswered && lastUserMsg?.content?.length > 10) {
+  sendUnansweredEmail(lastUserMsg.content).catch((err) =>
+    console.error("Email failed:", err.message)
+  );
+}
     const systemPrompt = buildSystemPrompt(hits);
 
     // Claude API call
@@ -90,7 +100,14 @@ export async function POST(req) {
     const reply =
       data?.content?.find((b) => b.type === "text")?.text ||
       "Sorry, I couldn't generate a response.";
-
+// 📧 Send email if unanswered
+if (isUnanswered && lastUserMsg) {
+  try {
+    await sendUnansweredEmail(lastUserMsg.content);
+  } catch (err) {
+    console.error("Email failed:", err.message);
+  }
+}
     return NextResponse.json(
       { reply },
       { headers: getCorsHeaders(origin) }
