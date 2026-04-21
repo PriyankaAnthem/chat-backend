@@ -51,26 +51,17 @@ export async function POST(req) {
       );
     }
 
-    // last user message
+    // ✅ last user message
     const lastUserMsg = [...messages].reverse().find((m) => m.role === "user");
 
-    // RAG search
+    // ✅ RAG search
     const hits = lastUserMsg
       ? await searchQdrant(lastUserMsg.content, 3)
       : [];
-  const isUnanswered =
-  (!hits || hits.length === 0) ||
-  reply.toLowerCase().includes("i don't have") ||
-  reply.toLowerCase().includes("not in my knowledge");
 
-if (isUnanswered && lastUserMsg?.content?.length > 10) {
-  sendUnansweredEmail(lastUserMsg.content).catch((err) =>
-    console.error("Email failed:", err.message)
-  );
-}
     const systemPrompt = buildSystemPrompt(hits);
 
-    // Claude API call
+    // ✅ Claude API call
     const response = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: {
@@ -100,14 +91,23 @@ if (isUnanswered && lastUserMsg?.content?.length > 10) {
     const reply =
       data?.content?.find((b) => b.type === "text")?.text ||
       "Sorry, I couldn't generate a response.";
-// 📧 Send email if unanswered
-if (isUnanswered && lastUserMsg) {
-  try {
-    await sendUnansweredEmail(lastUserMsg.content);
-  } catch (err) {
-    console.error("Email failed:", err.message);
-  }
-}
+
+    // ✅ define AFTER reply
+    const isUnanswered =
+      (!hits || hits.length === 0) ||
+  reply.toLowerCase().includes("i don't have") ||
+  reply.toLowerCase().includes("not in my knowledge") ||
+  reply.toLowerCase().includes("i'm not sure") ||
+  reply.toLowerCase().includes("please contact");
+
+    // ✅ send email (non-blocking)
+    if (isUnanswered && lastUserMsg?.content?.length > 10) {
+      console.log("📧 Sending email for:", lastUserMsg.content);
+      sendUnansweredEmail(lastUserMsg.content).catch((err) =>
+        console.error("Email failed:", err.message)
+      );
+    }
+
     return NextResponse.json(
       { reply },
       { headers: getCorsHeaders(origin) }

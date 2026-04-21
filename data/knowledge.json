@@ -1,0 +1,1118 @@
+[
+  {
+    "mongo_id": "qa_001",
+    "question": "What is Anthem Infotech?",
+    "answer": "Anthem Infotech Pvt. Ltd. is a software product development and maintenance company based in Zirakpur, Punjab, India. They provide advanced web development, AI solutions, and custom software technologies that help businesses improve efficiency and stay ahead in the digital landscape. They describe themselves as a software service creative agency dedicated to setting the standard of excellence.",
+    "category": "company_overview",
+    "tags": [
+      "company",
+      "overview",
+      "introduction",
+      "about"
+    ],
+    "page": "About Us",
+    "source_url": "https://antheminfotech.com/about-us"
+  },
+  {
+    "mongo_id": "qa_002",
+    "question": "When was Anthem Infotech founded?",
+    "answer": "Anthem Infotech was established in 2011. They have over a decade of experience and have a proven track record of delivering innovative solutions to diverse clients, constantly adapting to technological advancements.",
+    "category": "company_overview",
+    "tags": [
+      "founded",
+      "history",
+      "established",
+      "2011",
+      "experience"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_003",
+    "question": "Where is Anthem Infotech located?",
+    "answer": "Anthem Infotech is located at Office #11, Floor 11, Sushma Infinium, Chandigarh–Ambala Highway, Near Best Price, Zirakpur, Punjab – 140603, India. They are described as a web development company in Chandigarh and a growing IT company in Zirakpur.",
+    "category": "contact",
+    "tags": [
+      "location",
+      "address",
+      "office",
+      "Zirakpur",
+      "Punjab",
+      "Chandigarh"
+    ],
+    "page": "Contact Us",
+    "source_url": "https://antheminfotech.com/contact-us"
+  },
+  {
+    "mongo_id": "qa_004",
+    "question": "What is the phone number of Anthem Infotech?",
+    "answer": "Anthem Infotech's phone number is +91 9815-34-0123. Their office hours are Monday to Friday, 9:00 AM – 6:00 PM (IST).",
+    "category": "contact",
+    "tags": [
+      "phone",
+      "call",
+      "contact",
+      "number",
+      "helpline"
+    ],
+    "page": "Contact Us",
+    "source_url": "https://antheminfotech.com/contact-us"
+  },
+  {
+    "mongo_id": "qa_005",
+    "question": "What is the email address of Anthem Infotech?",
+    "answer": "Anthem Infotech's email address (Help Desk) is info@antheminfotech.com.",
+    "category": "contact",
+    "tags": [
+      "email",
+      "contact",
+      "help desk",
+      "support"
+    ],
+    "page": "Contact Us",
+    "source_url": "https://antheminfotech.com/contact-us"
+  },
+  {
+    "mongo_id": "qa_006",
+    "question": "What office hours does Anthem Infotech follow?",
+    "answer": "Anthem Infotech is available Monday to Friday, 9:00 AM – 6:00 PM IST.",
+    "category": "contact",
+    "tags": [
+      "office hours",
+      "working hours",
+      "availability",
+      "timing"
+    ],
+    "page": "Contact Us",
+    "source_url": "https://antheminfotech.com/contact-us"
+  },
+  {
+    "mongo_id": "qa_007",
+    "question": "What services does Anthem Infotech offer?",
+    "answer": "Anthem Infotech offers a comprehensive range of technology services including: Custom Software Development, Web & Mobile Application Development, AI-Powered Solutions (Generative AI, ChatGPT Integration, AI/ML Development), Marketing Automation, MVP Development, Enterprise Software Solutions, Data Analysis & ETL, UI/UX Design, and On-Demand Dedicated Talent.",
+    "category": "services",
+    "tags": [
+      "services",
+      "offerings",
+      "solutions",
+      "all services"
+    ],
+    "page": "Services",
+    "source_url": "https://antheminfotech.com/services"
+  },
+  {
+    "mongo_id": "qa_008",
+    "question": "Does Anthem Infotech develop mobile apps for iOS and Android?",
+    "answer": "Yes, Anthem Infotech specialises in developing mobile applications for both iOS and Android platforms. They also offer cross-platform development, hybrid app development, progressive web apps (PWA), and responsive design to ensure seamless device functionality.",
+    "category": "services",
+    "tags": [
+      "mobile app",
+      "iOS",
+      "Android",
+      "hybrid",
+      "PWA",
+      "cross-platform"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_009",
+    "question": "What AI and machine learning solutions does Anthem Infotech provide?",
+    "answer": "Anthem Infotech provides AI/ML technologies including Generative AI, AI Chat Integration (ChatGPT Integration), Predictive Analytics, AI Analytics, Natural Language Processing (NLP), Machine Learning models, Deep Learning Models, computer vision, recommendation systems, and custom chatbots. These solutions offer predictive analytics, process automation, and data-driven decision-making.",
+    "category": "services",
+    "tags": [
+      "AI",
+      "ML",
+      "machine learning",
+      "NLP",
+      "generative AI",
+      "deep learning",
+      "ChatGPT",
+      "chatbot"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_010",
+    "question": "What are the benefits of integrating ChatGPT with a business through Anthem Infotech?",
+    "answer": "ChatGPT integration by Anthem Infotech can enhance customer service, automate routine tasks, and provide personalised support 24/7. Their solutions include custom chatbots, interactive voice response (IVR) systems, HR bots, and customer support bots that improve customer interactions and operational efficiency.",
+    "category": "services",
+    "tags": [
+      "ChatGPT",
+      "chatbot",
+      "AI integration",
+      "customer service",
+      "automation",
+      "IVR"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_011",
+    "question": "What custom software solutions does Anthem Infotech build?",
+    "answer": "Anthem Infotech builds custom software designed to meet unique business challenges. Their custom software services include Content Management Systems (CMS), Business Process Management, Human Resource Management (HRM), Inventory Management, Customer Relationship Management (CRM), Financial Systems (ERP, POS), Logistics Management, and Supply Chain Management (SCM). Custom software improves efficiency and supports future growth.",
+    "category": "services",
+    "tags": [
+      "custom software",
+      "CMS",
+      "CRM",
+      "HRM",
+      "ERP",
+      "POS",
+      "inventory",
+      "SCM"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_012",
+    "question": "What is MVP Development and how can it benefit startups?",
+    "answer": "MVP (Minimum Viable Product) Development is a streamlined process of creating a functional product with essential features to test an idea in the market. By gathering feedback early, businesses can iterate quickly, reduce development costs, and validate their product before a full-scale launch. Anthem Infotech's MVP services include prototyping, UX/UI design, user feedback integration, iterative development, agile development, testing & QA, launch strategy, and performance analytics.",
+    "category": "services",
+    "tags": [
+      "MVP",
+      "minimum viable product",
+      "startup",
+      "prototyping",
+      "agile",
+      "launch"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_013",
+    "question": "What marketing automation services does Anthem Infotech provide?",
+    "answer": "Anthem Infotech's marketing automation services allow businesses to streamline marketing efforts, increase customer engagement, and improve ROI. Services include automated email campaigns, social media automation, SEO (Search Engine Optimisation), Pay-Per-Click (PPC) management, content management, analytics & reporting, SMS marketing, CRM integration, and lead scoring.",
+    "category": "services",
+    "tags": [
+      "marketing automation",
+      "email campaigns",
+      "SEO",
+      "PPC",
+      "social media",
+      "SMS",
+      "CRM",
+      "lead generation"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_014",
+    "question": "How does Anthem Infotech handle data analysis and ETL?",
+    "answer": "Anthem Infotech provides comprehensive data solutions including Data Extraction, Transformation, and Loading (ETL) processes; custom dashboards for real-time insights; data cleaning, warehousing, and visualisation; and advanced analytics to empower data-driven decision-making. Their team ensures that data is accurate, accessible, and actionable.",
+    "category": "services",
+    "tags": [
+      "ETL",
+      "data analysis",
+      "data extraction",
+      "dashboards",
+      "business intelligence",
+      "data cleaning"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_015",
+    "question": "What makes Anthem Infotech's UI/UX design services stand out?",
+    "answer": "Anthem Infotech's UI/UX design is focused on user-centered design principles to enhance usability, creating visually appealing and intuitive interfaces, conducting user research and usability testing, and ensuring responsive designs across web and mobile platforms. Their designs look great and offer seamless functionality to improve user engagement.",
+    "category": "services",
+    "tags": [
+      "UI",
+      "UX",
+      "design",
+      "user experience",
+      "responsive",
+      "user research",
+      "usability"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_016",
+    "question": "Does Anthem Infotech offer enterprise software solutions?",
+    "answer": "Yes, Anthem Infotech specialises in developing secure and scalable enterprise software. Their solutions include workflow automation, CRM integration, financial management, compliance management, security solutions, database management, system integration, and analytics platforms. Their enterprise software is designed to handle complex, large-scale business operations efficiently.",
+    "category": "services",
+    "tags": [
+      "enterprise software",
+      "workflow automation",
+      "CRM",
+      "compliance",
+      "database",
+      "security"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_017",
+    "question": "How does Anthem Infotech ensure the security of enterprise software?",
+    "answer": "Security is a top priority in all of Anthem Infotech's enterprise software solutions. They implement advanced encryption and secure coding practices, data protection protocols that comply with industry standards, regular security audits and updates, and tailored security solutions to meet specific business needs.",
+    "category": "services",
+    "tags": [
+      "security",
+      "encryption",
+      "data protection",
+      "compliance",
+      "audit",
+      "enterprise"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_018",
+    "question": "Does Anthem Infotech offer post-project support and maintenance?",
+    "answer": "Yes, Anthem Infotech offers ongoing support and maintenance services after project completion. This includes bug fixing and troubleshooting, performance optimisation, regular updates and feature enhancements, and long-term support to adapt to evolving business needs.",
+    "category": "services",
+    "tags": [
+      "support",
+      "maintenance",
+      "post-launch",
+      "bug fixing",
+      "updates",
+      "long-term"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_019",
+    "question": "What is the process for starting a project with Anthem Infotech?",
+    "answer": "The project onboarding process at Anthem Infotech typically involves: (1) An initial consultation to understand your needs and goals, (2) Detailed project scoping and requirement gathering, (3) Creating a project timeline and milestones, (4) Development, testing, and delivery phases, and (5) Post-launch support and maintenance. You can start by contacting them via their Contact Us page or request a quote.",
+    "category": "process",
+    "tags": [
+      "project start",
+      "onboarding",
+      "process",
+      "consultation",
+      "scoping",
+      "timeline"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_020",
+    "question": "How can I get a quote from Anthem Infotech?",
+    "answer": "You can get a quote from Anthem Infotech by visiting https://antheminfotech.com/request-a-quote and filling out the form. You can also contact them via phone at +91 9815-34-0123 (Mon–Fri, 9 AM–6 PM IST) or email at info@antheminfotech.com.",
+    "category": "contact",
+    "tags": [
+      "quote",
+      "pricing",
+      "get started",
+      "request",
+      "estimate"
+    ],
+    "page": "Get a Quote",
+    "source_url": "https://antheminfotech.com/request-a-quote"
+  },
+  {
+    "mongo_id": "qa_021",
+    "question": "What industries does Anthem Infotech serve?",
+    "answer": "Anthem Infotech serves multiple industries including: Food Ordering, Information Technology, Business Promotions, HOA (Homeowners Association) Automation & Condominium Management, Travel & Tourism, Logistics & Supply Chain, Financial Advisory, Construction, Healthcare & Medicine, Workforce Compliance, Publishing Rights Management.",
+    "category": "industries",
+    "tags": [
+      "industries",
+      "sectors",
+      "verticals",
+      "healthcare",
+      "logistics",
+      "finance",
+      "construction",
+      "food"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_022",
+    "question": "Does Anthem Infotech work with healthcare and medical companies?",
+    "answer": "Yes, Anthem Infotech provides Healthcare & Medical Solutions including Telemedicine, Appointment Scheduling, EHR (Electronic Health Records) Integration, AI Diagnostics, and Remote Patient Monitoring.",
+    "category": "industries",
+    "tags": [
+      "healthcare",
+      "medical",
+      "telemedicine",
+      "EHR",
+      "AI diagnostics",
+      "patient monitoring"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_023",
+    "question": "What logistics and supply chain solutions does Anthem Infotech offer?",
+    "answer": "Anthem Infotech's Logistics & Supply Chain Management solutions include Fleet Management, Route Optimization, Real-Time Tracking, Predictive Analytics, and AI-Driven Automation to streamline supply chain operations.",
+    "category": "industries",
+    "tags": [
+      "logistics",
+      "supply chain",
+      "fleet",
+      "route optimization",
+      "real-time tracking",
+      "AI automation"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_024",
+    "question": "Does Anthem Infotech provide financial audit and compliance solutions?",
+    "answer": "Yes, Anthem Infotech's Financial Audit Compliance Solutions include Real-Time Analytics, AI Market Predictions, Portfolio Management, Risk Assessment, Regulatory Compliance, and Controls Management.",
+    "category": "industries",
+    "tags": [
+      "finance",
+      "audit",
+      "compliance",
+      "risk",
+      "portfolio",
+      "regulatory"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_025",
+    "question": "Does Anthem Infotech build food ordering and delivery apps?",
+    "answer": "Yes, Anthem Infotech builds Food Ordering Solutions including Google Places API integration, Cart Management, Payment Gateway Integration, Driver Assignment, and Food Delivery features.",
+    "category": "industries",
+    "tags": [
+      "food ordering",
+      "delivery app",
+      "restaurant",
+      "cart management",
+      "payment gateway",
+      "driver"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_026",
+    "question": "What HOA automation solutions does Anthem Infotech provide?",
+    "answer": "Anthem Infotech offers HOA (Homeowners Association) Automation Solutions including Bulk Email, E-Voting System, Document Scanning, MICR Reading, and Automated Notifications for HOA and condominium management.",
+    "category": "industries",
+    "tags": [
+      "HOA",
+      "homeowners association",
+      "condominium",
+      "e-voting",
+      "MICR",
+      "bulk email",
+      "notifications"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_027",
+    "question": "What publishing rights management solutions does Anthem Infotech offer?",
+    "answer": "Anthem Infotech's Publishing Rights Management solutions include Digital Rights Management (DRM), Global Search, Content Protection, Content Extraction, Web Scraping, and Real-Time Reporting.",
+    "category": "industries",
+    "tags": [
+      "publishing",
+      "digital rights",
+      "DRM",
+      "content protection",
+      "web scraping",
+      "rights management"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_028",
+    "question": "What construction industry software solutions does Anthem Infotech provide?",
+    "answer": "Anthem Infotech offers Construction Industry Software solutions including Project Management, Cost Estimation, Real-Time Updates, Risk Management, and AI-Powered Insights to streamline construction operations.",
+    "category": "industries",
+    "tags": [
+      "construction",
+      "project management",
+      "cost estimation",
+      "risk management",
+      "AI insights"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_029",
+    "question": "Does Anthem Infotech offer tourism and travel solutions?",
+    "answer": "Yes, Anthem Infotech provides Tourism & Travel Solutions including Online Bookings, Virtual Tours, AI Recommendations, Multilingual Support, Real-Time Updates, Reservation Management, and API Integration.",
+    "category": "industries",
+    "tags": [
+      "tourism",
+      "travel",
+      "booking",
+      "virtual tours",
+      "reservation",
+      "multilingual",
+      "AI recommendations"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_030",
+    "question": "What workforce compliance solutions does Anthem Infotech offer?",
+    "answer": "Anthem Infotech's Workforce Compliance Solutions include Compliance Tracking, Real-Time Reporting, Wage Verification, Training Modules, Risk Assessment, and Financial Audit features.",
+    "category": "industries",
+    "tags": [
+      "workforce",
+      "compliance",
+      "wage verification",
+      "training",
+      "risk assessment",
+      "financial audit"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_031",
+    "question": "What business promotion solutions does Anthem Infotech provide?",
+    "answer": "Anthem Infotech's Business Promotion Solutions include Explainer Videos, Product Demo Content, SMS Campaigns, PDF Generation, Social Wall, Website Content, and Reviews & Ratings management.",
+    "category": "industries",
+    "tags": [
+      "business promotion",
+      "explainer video",
+      "SMS campaigns",
+      "social wall",
+      "reviews"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_032",
+    "question": "What information technology solutions does Anthem Infotech offer?",
+    "answer": "Anthem Infotech's Information Technology Solutions include Custom Software, Cloud Management, Cybersecurity, IT Infrastructure, and Digital Transformation services.",
+    "category": "industries",
+    "tags": [
+      "IT solutions",
+      "cloud management",
+      "cybersecurity",
+      "digital transformation",
+      "infrastructure"
+    ],
+    "page": "Industries",
+    "source_url": "https://antheminfotech.com/Home/Industries"
+  },
+  {
+    "mongo_id": "qa_033",
+    "question": "How can custom software help a business?",
+    "answer": "Custom software is designed to meet a business's unique challenges, improving efficiency and streamlining operations. Whether it's ERP, CRM, POS, or financial systems, Anthem Infotech creates scalable solutions that enhance business processes and support future growth.",
+    "category": "services",
+    "tags": [
+      "custom software",
+      "ERP",
+      "CRM",
+      "POS",
+      "efficiency",
+      "scalable",
+      "business growth"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_034",
+    "question": "How can AI and ML solutions improve a business?",
+    "answer": "AI/ML technologies from Anthem Infotech offer predictive analytics, process automation, and data-driven decision-making. By implementing AI/ML models such as computer vision, recommendation systems, and NLP, businesses can optimise operations, predict market trends, and enhance user experiences.",
+    "category": "services",
+    "tags": [
+      "AI benefits",
+      "ML",
+      "predictive analytics",
+      "automation",
+      "recommendation systems",
+      "NLP"
+    ],
+    "page": "FAQs",
+    "source_url": "https://antheminfotech.com/faqs"
+  },
+  {
+    "mongo_id": "qa_035",
+    "question": "What are Anthem Infotech's technical strengths and skill ratings?",
+    "answer": "Anthem Infotech's technical strengths are: Software Development (99%), Web Design (99%), Database & API Development (99%), Data ETL & Dashboards (97%), Generative AI (92%), and Mobile Applications (90%). They describe Web Development, Generative AI, Data ETL, and Presentation as their core strengths.",
+    "category": "company_overview",
+    "tags": [
+      "skills",
+      "strengths",
+      "expertise",
+      "technology",
+      "ratings",
+      "competency"
+    ],
+    "page": "Home",
+    "source_url": "https://antheminfotech.com/"
+  },
+  {
+    "mongo_id": "qa_036",
+    "question": "What client testimonials or reviews has Anthem Infotech received?",
+    "answer": "Anthem Infotech has received positive reviews from clients including: Mark Traynor (CTO & Co-Founder, DropCap Rights Agency) who praised them as competent, proactive, and timely with daily updates and excellent solutions. Ryan Weihler (President, Weihler Consulting Group) noted their talent in complex Java and Node.js healthcare data projects. Farshad Farhand (Head of Technology, Grpsys LLP, USA) described over 4 years of outstanding experience, calling them incredibly creative with unmatched quality.",
+    "category": "company_overview",
+    "tags": [
+      "testimonials",
+      "reviews",
+      "clients",
+      "feedback",
+      "reputation"
+    ],
+    "page": "About Us",
+    "source_url": "https://antheminfotech.com/about-us"
+  },
+  {
+    "mongo_id": "qa_037",
+    "question": "Does Anthem Infotech have career or job opportunities?",
+    "answer": "Yes, Anthem Infotech offers career opportunities in web development, AI solutions, and custom software development. Interested candidates can apply through their careers page at https://antheminfotech.com/careers by submitting their full name, email, contact number, last employer, total experience, role applying for, joining timeline, resume (PDF/DOC/DOCX), and a message.",
+    "category": "careers",
+    "tags": [
+      "careers",
+      "jobs",
+      "hiring",
+      "apply",
+      "recruitment",
+      "opportunities"
+    ],
+    "page": "Careers",
+    "source_url": "https://antheminfotech.com/careers"
+  },
+  {
+    "mongo_id": "qa_038",
+    "question": "How do I apply for a job at Anthem Infotech?",
+    "answer": "To apply for a job at Anthem Infotech, visit https://antheminfotech.com/careers and fill out the application form with your full name, email address, contact number, last employer, total experience, role you are applying for, notice period (days to join), upload your resume (PDF/DOC/DOCX), and a message.",
+    "category": "careers",
+    "tags": [
+      "apply",
+      "job application",
+      "resume",
+      "career",
+      "joining"
+    ],
+    "page": "Careers",
+    "source_url": "https://antheminfotech.com/careers"
+  },
+  {
+    "mongo_id": "qa_039",
+    "question": "What is the company's mission and approach?",
+    "answer": "Anthem Infotech is a software service creative agency dedicated to setting the standard of excellence. Since 2011, they have been committed to delivering innovative software, web development, and AI-powered solutions. By combining creativity with technical expertise, they help businesses transform and grow. Their focus is on excellence and client success, helping organisations optimise operations, improve efficiency, and stay ahead in today's fast-changing digital landscape.",
+    "category": "company_overview",
+    "tags": [
+      "mission",
+      "vision",
+      "approach",
+      "values",
+      "excellence",
+      "innovation"
+    ],
+    "page": "About Us",
+    "source_url": "https://antheminfotech.com/about-us"
+  },
+  {
+    "mongo_id": "qa_040",
+    "question": "Does Anthem Infotech build WordPress websites?",
+    "answer": "Yes, WordPress Website development is one of the Web & Mobile App services offered by Anthem Infotech. They also provide Performance Optimisation, Web API Development, App Integration, and other web services alongside WordPress development.",
+    "category": "services",
+    "tags": [
+      "WordPress",
+      "website",
+      "CMS",
+      "web development",
+      "web design"
+    ],
+    "page": "Services",
+    "source_url": "https://antheminfotech.com/services"
+  },
+  {
+    "mongo_id": "qa_041",
+    "question": "Does Anthem Infotech offer dedicated remote developer hiring?",
+    "answer": "Yes, Anthem Infotech's On-Demand Dedicated Talent service provides access to flexible, skilled professionals including Dedicated Professionals, Remote Developers, Rapid Hiring, Project-Specific Developers, Long-Term Partnerships, and End-to-End Support — helping businesses scale efficiently and meet dynamic demands.",
+    "category": "services",
+    "tags": [
+      "dedicated developers",
+      "remote hiring",
+      "staff augmentation",
+      "outsourcing",
+      "talent"
+    ],
+    "page": "Services",
+    "source_url": "https://antheminfotech.com/services"
+  },
+  {
+    "mongo_id": "qa_042",
+    "question": "What is the web address or URL of Anthem Infotech?",
+    "answer": "Anthem Infotech's official website is https://antheminfotech.com",
+    "category": "contact",
+    "tags": [
+      "website",
+      "URL",
+      "web address",
+      "online"
+    ],
+    "page": "Home",
+    "source_url": "https://antheminfotech.com/"
+  },
+  {
+    "mongo_id": "qa_043",
+    "question": "How does Anthem Infotech approach digital transformation?",
+    "answer": "Anthem Infotech helps businesses with digital transformation by providing AI-powered software development, ML-based automation, modern mobile app engineering, scalable web applications, and advanced digital solutions. They combine strategic planning, UI/UX design, and advanced software development to deliver impactful digital solutions for measurable growth and operational efficiency.",
+    "category": "services",
+    "tags": [
+      "digital transformation",
+      "automation",
+      "innovation",
+      "scalable",
+      "growth"
+    ],
+    "page": "About Us",
+    "source_url": "https://antheminfotech.com/about-us"
+  },
+  {
+    "mongo_id": "qa_044",
+    "question": "What does Anthem Infotech's portfolio or work showcase look like?",
+    "answer": "Anthem Infotech's portfolio can be viewed at https://antheminfotech.com/OurWork. It showcases their completed projects across various industries and service areas.",
+    "category": "company_overview",
+    "tags": [
+      "portfolio",
+      "work",
+      "projects",
+      "showcase",
+      "case studies"
+    ],
+    "page": "Portfolio",
+    "source_url": "https://antheminfotech.com/OurWork"
+  },
+  {
+    "mongo_id": "qa_045",
+    "question": "What type of company is Anthem Infotech?",
+    "answer": "Anthem Infotech Pvt. Ltd. is a private limited company registered in India. They are a professional IT company based in India and a software product development and maintenance company, described as a trusted web development company in Chandigarh and a growing IT company in Zirakpur, providing AI development, chatbot solutions, and custom software services.",
+    "category": "company_overview",
+    "tags": [
+      "company type",
+      "private limited",
+      "IT company",
+      "India",
+      "Pvt Ltd"
+    ],
+    "page": "Contact Us",
+    "source_url": "https://antheminfotech.com/contact-us"
+  },
+  {
+    "mongo_id": "qa_046",
+    "question": "What are the company holidays at Anthem Infotech in 2025?",
+    "answer": "Anthem Infotech observes the following holidays in 2025: Lohri (13 Jan), Maha Shivratri (26 Feb), Holi (14 Mar), Good Friday (18 Apr), Independence Day (15 Aug), Mahatma Gandhi's Jayanti / Dussehra (02 Oct), Diwali (20 Oct), Diwali / Vishwakarma Day (21 Oct), Birthday of Sri Guru Nanak Dev Ji (05 Nov), Christmas (25 Dec), and New Year Eve (31 Dec). That is 11 holidays in 2025.",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2025",
+      "leave",
+      "calendar",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What are the company holidays at Anthem Infotech in 2025? Lohri, Maha Shivratri, Holi, Good Friday, Independence Day, Gandhi Jayanti, Dussehra, Diwali, Vishwakarma Day, Guru Nanak Jayanti, Christmas, New Year Eve."
+  },
+  {
+    "mongo_id": "qa_047",
+    "question": "How many holidays does Anthem Infotech have in 2025?",
+    "answer": "Anthem Infotech has 11 official holidays in 2025: Lohri (13 Jan), Maha Shivratri (26 Feb), Holi (14 Mar), Good Friday (18 Apr), Independence Day (15 Aug), Mahatma Gandhi's Jayanti / Dussehra (02 Oct), Diwali (20 Oct), Diwali / Vishwakarma Day (21 Oct), Birthday of Sri Guru Nanak Dev Ji (05 Nov), Christmas (25 Dec), and New Year Eve (31 Dec).",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2025",
+      "count",
+      "total",
+      "number of leaves"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "How many holidays does Anthem Infotech have in 2025? 11 holidays total including Lohri, Holi, Independence Day, Diwali, Christmas, New Year Eve."
+  },
+  {
+    "mongo_id": "qa_048",
+    "question": "What are the company holidays at Anthem Infotech in 2026?",
+    "answer": "Anthem Infotech observes the following holidays in 2026: Republic Day (26 Jan), Holi (04 Mar), Vaisakhi (14 Apr), Krishna Janmashtami (04 Sep), Mahatma Gandhi Jayanti (02 Oct), Dussehra (20 Oct), Diwali / Vishwakarma Day (09 Nov), Gurpurv Guru Nanak Dev Ji (24 Nov), Christmas Day (25 Dec), and New Year's Evening (31 Dec). That is 10 holidays in 2026.",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2026",
+      "leave",
+      "calendar",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What are Anthem Infotech holidays in 2026? Republic Day, Holi, Vaisakhi, Janmashtami, Gandhi Jayanti, Dussehra, Diwali, Vishwakarma Day, Guru Nanak, Christmas, New Year."
+  },
+  {
+    "mongo_id": "qa_049",
+    "question": "How many holidays does Anthem Infotech have in 2026?",
+    "answer": "Anthem Infotech has 10 official holidays in 2026: Republic Day (26 Jan), Holi (04 Mar), Vaisakhi (14 Apr), Krishna Janmashtami (04 Sep), Mahatma Gandhi Jayanti (02 Oct), Dussehra (20 Oct), Diwali / Vishwakarma Day (09 Nov), Gurpurv Guru Nanak Dev Ji (24 Nov), Christmas Day (25 Dec), and New Year's Evening (31 Dec).",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2026",
+      "count",
+      "total",
+      "number of leaves"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "How many holidays does Anthem Infotech have in 2026? 10 holidays total including Republic Day, Holi, Vaisakhi, Diwali, Christmas, New Year."
+  },
+  {
+    "mongo_id": "qa_050",
+    "question": "What are the company holidays at Anthem Infotech in 2024?",
+    "answer": "Anthem Infotech observes the following holidays in 2024: New Year Day (01 Jan), Republic Day (26 Jan), Maha Shivratri (08 Mar), Holi (25 Mar), Ram Navmi (17 Apr), Independence Day (15 Aug), Gandhi Jayanti (02 Oct), Diwali (31 Oct), Vishav Karma Day (01 Nov), Christmas (25 Dec), and New Year Eve (31 Dec). That is 11 holidays in 2024.",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2024",
+      "leave",
+      "calendar",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What are Anthem Infotech holidays in 2024? New Year, Republic Day, Maha Shivratri, Holi, Ram Navmi, Independence Day, Gandhi Jayanti, Diwali, Vishav Karma Day, Christmas, New Year Eve."
+  },
+  {
+    "mongo_id": "qa_051",
+    "question": "What are the company holidays at Anthem Infotech in 2023?",
+    "answer": "Anthem Infotech observes the following holidays in 2023: Republic Day (26 Jan), Holi (08 Mar), Vaisakhi (14 Apr), Independence Day (15 Aug), Gandhi Jayanti (02 Oct), Vijaya Dashami (24 Oct), Diwali / Vishavkarma Day (13 Nov), Guru Nanak Jayanti (27 Nov), and Christmas Day (25 Dec). That is 9 holidays in 2023.",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2023",
+      "leave",
+      "calendar",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What are Anthem Infotech holidays in 2023? Republic Day, Holi, Vaisakhi, Independence Day, Gandhi Jayanti, Vijaya Dashami, Diwali, Vishavkarma Day, Guru Nanak Jayanti, Christmas."
+  },
+  {
+    "mongo_id": "qa_052",
+    "question": "What are the company holidays at Anthem Infotech in 2022?",
+    "answer": "Anthem Infotech observes the following holidays in 2022: Republic Day (26 Jan), Maha Shivratri (01 Mar), Holi (18 Mar), Good Friday (15 Apr), Id Ul Fitr (03 May), Independence Day (15 Aug), Dussehra (05 Oct), Diwali (24 Oct), Vishawkarma Day (25 Oct), and Guru Gobind Singh Ji Birthday (30 Dec). That is 10 holidays in 2022.",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2022",
+      "leave",
+      "calendar",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What are Anthem Infotech holidays in 2022? Republic Day, Holi, Good Friday, Id Ul Fitr, Independence Day, Dussehra, Diwali, Vishawkarma Day, Guru Gobind Singh Birthday."
+  },
+  {
+    "mongo_id": "qa_053",
+    "question": "What are the company holidays at Anthem Infotech in 2021?",
+    "answer": "Anthem Infotech observes the following holidays in 2021: Republic Day (26 Jan), Maha Shiv Ratri (11 Mar), Holi (29 Mar), Vaisakhi (13 Apr), Martyrdom Day of Guru Arjun Dev (14 Jun), Krishna Janamashtmi (30 Aug), Dussehra (15 Oct), Diwali (04 Nov), Vishavkarma Day (05 Nov), Birthday Guru Nanak Dev (19 Nov), and New Year Eve (31 Dec). That is 11 holidays in 2021.",
+    "category": "holidays",
+    "tags": [
+      "holidays",
+      "2021",
+      "leave",
+      "calendar",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What are Anthem Infotech holidays in 2021? Republic Day, Holi, Vaisakhi, Guru Arjun Dev, Janmashtami, Dussehra, Diwali, Vishavkarma Day, Guru Nanak Dev, New Year Eve."
+  },
+  {
+    "mongo_id": "qa_054",
+    "question": "Does Anthem Infotech observe Diwali as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Diwali as an official company holiday every year. For example: Diwali was on 31 Oct 2024, 20 Oct 2025, and 09 Nov 2026. Vishwakarma Day (the day after Diwali) is also typically observed as a holiday.",
+    "category": "holidays",
+    "tags": [
+      "Diwali",
+      "holidays",
+      "festival",
+      "Vishwakarma"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Diwali as a holiday? Yes, Diwali and Vishwakarma Day are official holidays every year."
+  },
+  {
+    "mongo_id": "qa_055",
+    "question": "Does Anthem Infotech observe Independence Day as a holiday?",
+    "answer": "Yes, Anthem Infotech observes India's Independence Day on 15th August as an official company holiday every year.",
+    "category": "holidays",
+    "tags": [
+      "Independence Day",
+      "15 August",
+      "national holiday",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Independence Day as a holiday? Yes, 15 August Independence Day is observed every year."
+  },
+  {
+    "mongo_id": "qa_056",
+    "question": "Does Anthem Infotech observe Republic Day as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Republic Day on 26th January as an official company holiday every year.",
+    "category": "holidays",
+    "tags": [
+      "Republic Day",
+      "26 January",
+      "national holiday",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Republic Day as a holiday? Yes, 26 January Republic Day is an official holiday every year."
+  },
+  {
+    "mongo_id": "qa_057",
+    "question": "Does Anthem Infotech observe Holi as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Holi as an official company holiday every year. Recent dates: Holi was on 14 Mar 2025, 25 Mar 2024, 08 Mar 2023, 18 Mar 2022.",
+    "category": "holidays",
+    "tags": [
+      "Holi",
+      "holidays",
+      "festival",
+      "spring"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Holi as a holiday? Yes, Holi is an official company holiday every year."
+  },
+  {
+    "mongo_id": "qa_058",
+    "question": "Does Anthem Infotech observe Christmas as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Christmas Day on 25th December as an official company holiday every year.",
+    "category": "holidays",
+    "tags": [
+      "Christmas",
+      "25 December",
+      "holidays",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Christmas as a holiday? Yes, 25 December Christmas is an official company holiday."
+  },
+  {
+    "mongo_id": "qa_059",
+    "question": "Does Anthem Infotech observe New Year as a holiday?",
+    "answer": "Yes, Anthem Infotech observes New Year's Eve / New Year's Day as an official company holiday. In most years New Year Eve (31 Dec) is listed, and some years also include New Year Day (01 Jan).",
+    "category": "holidays",
+    "tags": [
+      "New Year",
+      "31 December",
+      "1 January",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe New Year as a holiday? Yes, New Year Eve 31 December and New Year Day 1 January are official holidays."
+  },
+  {
+    "mongo_id": "qa_060",
+    "question": "Does Anthem Infotech observe Guru Nanak Jayanti as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Guru Nanak Jayanti (Birthday of Sri Guru Nanak Dev Ji) as an official company holiday. For example: 05 Nov 2025, 27 Nov 2023, 30 Nov 2020.",
+    "category": "holidays",
+    "tags": [
+      "Guru Nanak Jayanti",
+      "Gurpurv",
+      "Sikh",
+      "holidays",
+      "festival"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Guru Nanak Jayanti as a holiday? Yes, Guru Nanak Dev Ji birthday is an official holiday every year."
+  },
+  {
+    "mongo_id": "qa_061",
+    "question": "Does Anthem Infotech observe Gandhi Jayanti as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Mahatma Gandhi Jayanti on 2nd October as an official company holiday in most years.",
+    "category": "holidays",
+    "tags": [
+      "Gandhi Jayanti",
+      "2 October",
+      "national holiday",
+      "Mahatma Gandhi"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Gandhi Jayanti as a holiday? Yes, 2 October Mahatma Gandhi Jayanti is an official holiday."
+  },
+  {
+    "mongo_id": "qa_062",
+    "question": "Does Anthem Infotech observe Good Friday as a holiday?",
+    "answer": "Yes, Anthem Infotech has observed Good Friday as a company holiday in several years. For example: Good Friday was on 18 Apr 2025, 15 Apr 2022, 19 Apr 2019.",
+    "category": "holidays",
+    "tags": [
+      "Good Friday",
+      "Easter",
+      "Christian",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Good Friday as a holiday? Yes, Good Friday has been observed as a company holiday in multiple years."
+  },
+  {
+    "mongo_id": "qa_063",
+    "question": "Does Anthem Infotech observe Lohri as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Lohri as a company holiday in January. For example: Lohri was on 13 Jan 2025, 13 Jan 2020, 14 Jan 2019.",
+    "category": "holidays",
+    "tags": [
+      "Lohri",
+      "January",
+      "Punjabi festival",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Lohri as a holiday? Yes, Lohri in January is a company holiday."
+  },
+  {
+    "mongo_id": "qa_064",
+    "question": "Does Anthem Infotech observe Vaisakhi as a holiday?",
+    "answer": "Yes, Anthem Infotech observes Vaisakhi on 13th or 14th April as a company holiday in many years. For example: Vaisakhi was on 14 Apr 2026, 14 Apr 2023, 13 Apr 2021.",
+    "category": "holidays",
+    "tags": [
+      "Vaisakhi",
+      "April",
+      "Punjabi festival",
+      "harvest",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Does Anthem Infotech observe Vaisakhi as a holiday? Yes, Vaisakhi in April is an official company holiday."
+  },
+  {
+    "mongo_id": "qa_065",
+    "question": "What is the holiday on 02 October 2025 at Anthem Infotech?",
+    "answer": "On 02 October 2025, Anthem Infotech observes a combined holiday for Mahatma Gandhi's Jayanti and Dussehra, as both fall on the same date that year.",
+    "category": "holidays",
+    "tags": [
+      "Gandhi Jayanti",
+      "Dussehra",
+      "2025",
+      "October",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What holiday is on 2 October 2025 at Anthem Infotech? Mahatma Gandhi Jayanti and Dussehra combined holiday."
+  },
+  {
+    "mongo_id": "qa_066",
+    "question": "What holidays does Anthem Infotech observe in October and November 2025?",
+    "answer": "In October and November 2025, Anthem Infotech observes: Mahatma Gandhi's Jayanti / Dussehra (02 Oct), Diwali (20 Oct), Diwali / Vishwakarma Day (21 Oct), and Birthday of Sri Guru Nanak Dev Ji (05 Nov). That is 4 holidays in this period.",
+    "category": "holidays",
+    "tags": [
+      "October",
+      "November",
+      "2025",
+      "Diwali",
+      "Dussehra",
+      "Guru Nanak",
+      "holidays"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What holidays does Anthem Infotech have in October November 2025? Gandhi Jayanti, Dussehra, Diwali, Vishwakarma Day, Guru Nanak Dev Ji birthday."
+  },
+  {
+    "mongo_id": "qa_067",
+    "question": "Since when has Anthem Infotech been maintaining a holiday list?",
+    "answer": "Anthem Infotech has been maintaining an official holiday list since at least 2016. The recorded history covers holidays from 2016 through 2026, showing over a decade of consistent holiday observance.",
+    "category": "holidays",
+    "tags": [
+      "holiday history",
+      "since 2016",
+      "company policy",
+      "annual leave"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "Since when has Anthem Infotech maintained a holiday list? Since 2016, covering holidays from 2016 to 2026."
+  },
+  {
+    "mongo_id": "qa_068",
+    "question": "What is the holiday management portal of Anthem Infotech?",
+    "answer": "Anthem Infotech uses an internal management portal at https://management.workanthem.com to manage company holidays, team information, and other HR-related data. The holiday list is available at https://management.workanthem.com/holidays.",
+    "category": "holidays",
+    "tags": [
+      "management portal",
+      "HR portal",
+      "internal system",
+      "workanthem"
+    ],
+    "page": "Holiday List",
+    "source_url": "https://management.workanthem.com/holidays",
+    "embedding_text": "What is Anthem Infotech management portal? management.workanthem.com is the internal HR portal for holidays and team management."
+  },
+  {
+    "mongo_id": "qa_069",
+    "question": "Who is the CEO of Anthem Infotech?",
+    "answer": "The CEO of Anthem Infotech is Hemant Gupta.",
+    "category": "team",
+    "tags": [
+      "CEO",
+      "Hemant Gupta",
+      "leadership",
+      "management",
+      "founder"
+    ],
+    "page": "Team",
+    "source_url": "https://management.workanthem.com/team",
+    "embedding_text": "Who is the CEO of Anthem Infotech? Hemant Gupta is the CEO. Birthday December 27."
+  },
+  {
+    "mongo_id": "qa_070",
+    "question": "Who is the Project Manager at Anthem Infotech?",
+    "answer": "The Project Manager at Anthem Infotech is Diljeet Singh Jamwal.",
+    "category": "team",
+    "tags": [
+      "Project Manager",
+      "Diljeet Singh Jamwal",
+      "management",
+      "PM"
+    ],
+    "page": "Team",
+    "source_url": "https://management.workanthem.com/team",
+    "embedding_text": "Who is the Project Manager at Anthem Infotech? Diljeet Singh Jamwal is the Project Manager."
+  },
+  {
+    "mongo_id": "qa_071",
+    "question": "Who are the key leaders at Anthem Infotech?",
+    "answer": "The key leaders at Anthem Infotech include: Hemant Gupta  and Diljeet Singh Jamwal.",
+    "category": "team",
+    "tags": [
+      "leadership",
+      "CEO",
+      "Project Manager",
+      "Hemant Gupta",
+      "Diljeet Singh Jamwal",
+      "team"
+    ],
+    "page": "Team",
+    "source_url": "https://management.workanthem.com/team",
+    "embedding_text": "Who are the key leaders at Anthem Infotech? Hemant Gupta CEO birthday December 27, Diljeet Singh Jamwal Project Manager birthday April 12."
+  }
+]
