@@ -11,7 +11,6 @@ const allowedOrigins = process.env.FRONTEND_URLS?.split(",") || [];
 
 function getCorsHeaders(origin) {
   const isAllowed = allowedOrigins.includes(origin);
-
   return {
     "Access-Control-Allow-Origin": isAllowed ? origin : "",
     "Access-Control-Allow-Methods": "POST, OPTIONS",
@@ -19,17 +18,14 @@ function getCorsHeaders(origin) {
   };
 }
 
-// ✅ Handle preflight request
 export async function OPTIONS(req) {
   const origin = req.headers.get("origin") || "";
-
   return new Response(null, {
     status: 204,
     headers: getCorsHeaders(origin),
   });
 }
 
-// ✅ Main POST API
 export async function POST(req) {
   const origin = req.headers.get("origin") || "";
 
@@ -51,7 +47,7 @@ export async function POST(req) {
       );
     }
 
-    // ✅ last user message
+    // ✅ Last user message
     const lastUserMsg = [...messages].reverse().find((m) => m.role === "user");
 
     // ✅ RAG search
@@ -79,7 +75,6 @@ export async function POST(req) {
 
     if (!response.ok) {
       const error = await response.json();
-
       return NextResponse.json(
         { error: error.error?.message || "API error" },
         { status: response.status, headers: getCorsHeaders(origin) }
@@ -87,22 +82,29 @@ export async function POST(req) {
     }
 
     const data = await response.json();
+    const rawText =
+      data?.content?.find((b) => b.type === "text")?.text || "";
 
-    const reply =
-      data?.content?.find((b) => b.type === "text")?.text ||
-      "Sorry, I couldn't generate a response.";
+    // ✅ Parse structured JSON response from Claude
+    let reply = "Sorry, I couldn't generate a response.";
+    let isUnanswered = false;
 
-    // ✅ define AFTER reply
-    const isUnanswered =
-      (!hits || hits.length === 0) ||
-  reply.toLowerCase().includes("i don't have") ||
-  reply.toLowerCase().includes("not in my knowledge") ||
-  reply.toLowerCase().includes("i'm not sure") ||
-  reply.toLowerCase().includes("please contact");
+    try {
+      // Strip any accidental markdown fences just in case
+      const clean = rawText.replace(/```json|```/g, "").trim();
+      const parsed = JSON.parse(clean);
+      reply = parsed.answer || reply;
+      isUnanswered = parsed.unanswered === true;
+    } catch {
+      // Claude didn't return valid JSON — use raw text and don't trigger email
+      console.warn("⚠️ Claude response was not valid JSON, using raw text");
+      reply = rawText || reply;
+      isUnanswered = false;
+    }
 
-    // ✅ send email (non-blocking)
+    // ✅ Only send email when Claude explicitly flagged it as unanswered
     if (isUnanswered && lastUserMsg?.content?.length > 10) {
-      console.log("📧 Sending email for:", lastUserMsg.content);
+      console.log("📧 Sending unanswered email for:", lastUserMsg.content);
       sendUnansweredEmail(lastUserMsg.content).catch((err) =>
         console.error("Email failed:", err.message)
       );
@@ -112,9 +114,9 @@ export async function POST(req) {
       { reply },
       { headers: getCorsHeaders(origin) }
     );
+
   } catch (error) {
     console.error("Chat API error:", error);
-
     return NextResponse.json(
       { error: "Internal server error" },
       { status: 500, headers: getCorsHeaders(origin) }
