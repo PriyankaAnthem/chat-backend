@@ -105,9 +105,12 @@ export async function POST(req) {
     // ✅ Only send email when Claude explicitly flagged it as unanswered
     if (isUnanswered && lastUserMsg?.content?.length > 10) {
       console.log("📧 Sending unanswered email for:", lastUserMsg.content);
-      sendUnansweredEmail(lastUserMsg.content).catch((err) =>
-        console.error("Email failed:", err.message)
-      );
+      // ✅ Fire immediately without awaiting
+setImmediate(() => {
+  sendUnansweredEmail(lastUserMsg.content).catch((err) =>
+    console.error("Email failed:", err.message)
+  );
+});
     }
 
     return NextResponse.json(
