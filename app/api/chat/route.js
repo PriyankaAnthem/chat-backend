@@ -106,11 +106,9 @@ export async function POST(req) {
     if (isUnanswered && lastUserMsg?.content?.length > 10) {
       console.log("📧 Sending unanswered email for:", lastUserMsg.content);
       // ✅ Fire immediately without awaiting
-setImmediate(() => {
-  sendUnansweredEmail(lastUserMsg.content).catch((err) =>
-    console.error("Email failed:", err.message)
-  );
-});
+      await sendUnansweredEmail(lastUserMsg.content).catch((err) =>
+        console.error("Email failed:", err.message)
+      );
     }
 
     return NextResponse.json(
