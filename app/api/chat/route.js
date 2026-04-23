@@ -67,7 +67,7 @@ export async function POST(req) {
       },
       body: JSON.stringify({
         model: "claude-sonnet-4-5",
-        max_tokens: 300,
+        max_tokens: 600,
         system: systemPrompt,
         messages: messages.slice(-4),
       }),
@@ -91,7 +91,8 @@ export async function POST(req) {
 
     try {
       // Strip any accidental markdown fences just in case
-      const clean = rawText.replace(/```json|```/g, "").trim();
+      // const clean = rawText.replace(/```json|```/g, "").trim();
+      const clean = rawText.replace(/^```[\w]*\n?/gm, "").replace(/```$/gm, "").trim();
       const parsed = JSON.parse(clean);
       reply = parsed.answer || reply;
       isUnanswered = parsed.unanswered === true;
